@@ -1,11 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T02:46:39.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="B-nxH3SDo5ChP1pDn6UA" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T02:48:06.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7iIwiSHclsuCswSwoYZ6" version="13.5.9" type="github">
   <diagram id="_g7B8ORvj_72rfRw0209" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-14" value="อำเภอ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-15" value="จังหวัด" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-16" value="ที่อยู่" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-17" value="วัดเกิด" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-18" value="อีเมล" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-19" value="เบอร์โทรศัพท์" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnKrbaLISy-bAt7PPh4K-20" value="เงินเดือน" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="cnKrbaLISy-bAt7PPh4K-1" value="พนักงาน" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="180" height="390" as="geometry" />
+          <mxGeometry x="80" y="80" width="180" height="360" as="geometry" />
         </mxCell>
         <mxCell id="cnKrbaLISy-bAt7PPh4K-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cnKrbaLISy-bAt7PPh4K-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -42,18 +63,6 @@
         </mxCell>
         <mxCell id="cnKrbaLISy-bAt7PPh4K-13" value="ชื่อเล่น" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="cnKrbaLISy-bAt7PPh4K-11">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cnKrbaLISy-bAt7PPh4K-14" value="อำเภอ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cnKrbaLISy-bAt7PPh4K-15" value="จังหวัด" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="230" y="380" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cnKrbaLISy-bAt7PPh4K-16" value="ที่อยู่" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cnKrbaLISy-bAt7PPh4K-17" value="วัดเกิด" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
